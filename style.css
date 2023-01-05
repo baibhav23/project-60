@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.line{
+    width:100%;
+    border: 30px solid aqua;
+    text-align: center;
+}
